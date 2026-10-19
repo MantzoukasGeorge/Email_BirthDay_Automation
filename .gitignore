@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# Personal data (the public sample is birthdays.example.csv)
+birthdays.csv
+
+# IDE settings (.idea/workspace.xml contains the Gmail app password)
+.idea/
+.vscode/
